@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-toqa789.github.io-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://toqa789.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-toqa789.github.io%2Fportfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://toqa789.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-toqa--tawfik-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toqa-tawfik)
 [![Email](https://img.shields.io/badge/Email-tokatawfik789%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tokatawfik789@gmail.com)
 
@@ -138,7 +138,7 @@ Console-based C++ applications built with Object-Oriented Programming principles
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00D9FF?style=flat-square&logo=googlechrome&logoColor=white)](https://toqa789.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00D9FF?style=flat-square&logo=googlechrome&logoColor=white)](https://toqa789.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toqa-tawfik)
 [![Gmail](https://img.shields.io/badge/-Gmail-00D9FF?style=flat-square&logo=gmail&logoColor=white)](mailto:tokatawfik789@gmail.com)
 
